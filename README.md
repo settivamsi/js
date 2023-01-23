@@ -1,7 +1,5 @@
-this is java script
-
 # heading one
-*hello world* my name is **vamsi**
+*hello world* my name is **Vamsi**
 
 - [x] clone repository
 - [ ] edit repository
@@ -12,13 +10,13 @@ this is java script
 - [ ] merge to main branch
 
 ## heading two
-> *hello world* my name is **vamsi**
+> *hello world* my name is **Vamsi**
 
-1. vamsi
-2. akhil
+1. Vamsi
+2. Akhil
 
-- vamsi
-- akhil
+- Vamsi
+- Akhil
 
 `console.log("hello world")`
 
