@@ -5,6 +5,11 @@ this is java script
 
 - [x] clone repository
 - [ ] edit repository
+- [ ] create commit
+- [ ] push code
+- [ ] create branch
+- [ ] commit branch
+- [ ] merge to main branch
 
 ## heading two
 > *hello world* my name is **vamsi**
